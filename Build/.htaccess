@@ -5,6 +5,6 @@
   AddEncoding gzip .js
   AddEncoding gzip .wasm
   AddType application/wasm .wasm
-
+  AddType application/wasm .wasm
 
 </IfModule>
